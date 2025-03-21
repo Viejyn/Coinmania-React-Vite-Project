@@ -28,9 +28,9 @@
 
 ### 🌐 `Deploy`
 
-
+https://coinmania-vite-project.netlify.app/
 
 ### 🎥 `Screen`
 
 ![](Coinmania.gif)
-# Coinmania-React-Vite-Project
+
